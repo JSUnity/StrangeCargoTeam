@@ -1,0 +1,19 @@
+CHANGE LOG - "Sort of Lead Unity Programmer Guy"
+
+- Swapped wall colliders with simple boxes, cleaned up useless mesh renderers
+- Groupped rocks, grass, walls, tagged boat player and camera
+- Generally fixed a few more colliders, separated player models and colliders
+- Added boat particles, fixed purple water
+- Coded a fresh new movement script, works great, 30 lines shorter (1/2)
+- Coded a better camera smooth script, cleaner, 40 lines shorter (2/3)
+- Shut up that annoying "not used" debugger warning
+- Tagged water, made the boat UNCONTROLLABLE unless in water! (Enough flying pls)
+- Messed with Project Settings > Input and Editor (higher axis gravity)
+
+- Cleaned the shit out of the entire thing
+
+2. Guns / Buoyancy
+
+- Did a buoyancy script test, but it's currently disabled
+- Added a very slight up/down water movement script, can remove it later
+- Added gun with raycasting and line renderer, shoots and everything!
